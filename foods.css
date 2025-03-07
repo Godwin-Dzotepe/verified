@@ -1,0 +1,391 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.picture-1{
+    width: 400px;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.picture-2{
+    width: 40px;
+    border-radius: 20px;
+    position: absolute;
+    left: 4rem;
+    top: 24.50rem;
+}
+
+.nav-bar{
+    height: 6vh;
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, .1);
+}
+
+.bar{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.Search-bar{
+    max-width: 80%;
+    width:  35vw;
+    height: 5vh;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    color: rgb(27, 27, 253);
+}
+
+.Search-bar:hover{
+    border: 1px solid dodgerblue;
+}
+
+.submit{
+    height: 5vh;
+    width: 5vw;
+    margin-left: -1rem;
+}
+
+.submit:hover{
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+}
+ 
+.all{
+    background-color: black;
+    color: #fff;
+    width: 3vw;
+    max-width: 80%;
+    height: 3vh;
+    border-radius: 10px;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.all p{
+margin-left: 8px;
+}
+
+.nolly{
+    background-color: #cccc;
+    color: #000;
+    width: 8vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;   
+}
+
+.action{
+    background-color: #cccc;
+    color: #000;
+    width: 10vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;  
+}
+
+.music{
+    background-color: #cccc;
+    color: #000;
+    width: 5vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem; 
+}
+
+.game{
+    background-color: #cccc;
+    color: #000;
+    width: 6vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;  
+}
+
+.dubbing{
+    background-color: #cccc;
+    color: #000;
+    width: 6vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;  
+}
+
+.action1{
+    background-color: #cccc;
+    color: #000;
+    width: 8vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;  
+}
+
+.science{
+    background-color: #cccc;
+    color: #000;
+    width: 10vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;  
+}
+
+.web{
+    background-color: #cccc;
+    color: #000;
+    width: 12vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;  
+}
+
+.commic{
+    background-color: #cccc;
+    color: #000;
+    width: 9vw;
+    height: 3vh;
+    border-radius: 10px;
+    margin-top: 1rem;  
+}
+
+.sugestion{
+    display: flex;
+    gap: 1.3rem;
+}
+
+.sugestion p{
+    margin-left: 0.60rem;
+}
+
+
+.verified{
+    margin-right: 4rem;
+    margin-left: 15rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.verified-logo{
+    width: 60px;
+    position: absolute;
+    left: 10.80rem;
+    top: -3px;
+}
+
+.search-food{
+    margin-left: 1em;
+}
+
+
+.text{
+    margin-left: 3.40rem;
+}
+.video-title{
+    width: 350px;
+    font-weight: bold;
+}
+
+.video-author{
+    margin-top: 10px;
+}
+
+.time{
+    background-color: black;
+    color: white;
+    width: 3vw;
+    position: absolute;
+    top: 22.60rem;
+    left: 25rem;
+}
+
+.video-video{
+    display: flex;
+    gap: 0.5rem;
+    margin-left: 3.50rem;
+    max-width: 80%;
+}
+
+.picture-3{
+    width: 400px;
+    margin-top: 2rem;
+}
+
+.picture-4{
+    width: 400px;
+    margin-top: 2rem;
+}
+
+.men{
+    width: 40px;
+    border-radius: 20px;
+    position: absolute;
+    left: 29rem;
+    top: 24.60rem;
+}
+.piona-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 350px;
+}
+.piona-author{
+    margin-top: 10px;
+}
+
+.piona{
+    margin-left: 3rem;
+}
+
+.time2{
+    background-color: black;
+    color: white;
+    width: 3vw;
+    position: absolute;
+    top: 22.50rem;
+    left: 76rem;
+}
+
+
+.Godwin-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.Godwin-author{
+    margin-top: 10px;
+}
+
+.godwin{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    position: absolute;
+    left: 55rem;
+    top: 24.80rem;
+}
+
+.godwin-inall{
+    margin-left: 3rem;
+}
+.time1{
+    background-color: black;
+    color: white;
+    width: 3vw;
+    position: absolute;
+    top: 23rem;
+    left: 50rem;
+}
+
+.deflex-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.deflex-author{
+    margin-top: 20px;
+}
+
+.fashion{
+    width: 400px;
+    margin-top: 4rem;
+}
+
+.fouth-video{
+    margin-left: 3rem;
+}
+.deflex-main{
+    margin-left: 3rem;
+}
+
+.time3{
+    background-color: black;
+    color: white;
+    width: 3vw;
+    position: absolute;
+    top: 49.50rem;
+    left: 24.50rem;
+}
+
+.video1{
+    width: 400px;
+}
+
+.day-effect{
+    margin-left: 1rem;
+    margin-top: 4rem;
+}
+
+.day-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.day-author{
+    margin-top: 10px;
+}
+
+.day-text{
+    margin-left: 3rem;
+}
+
+.time4{
+    background-color: black;
+    color: white;
+    width: 3vw;
+    position: absolute;
+    top: 45.50rem;
+    left: 50.50rem;
+}
+
+.second-video-line2{
+    display: flex;
+}
+
+.effect-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.effect-author{
+    margin-top:10px;
+}
+
+.effect-video{
+    margin-left: 0.5rem;
+    margin-top: 3.85rem;
+}
+
+.effect-effect{
+    margin-left: 3rem;
+}
+
+.first-video,
+.second-video,
+.third-video,
+.day-effect,
+.fouth-video,
+.effect-video{
+    cursor: pointer;
+}
+
+body:has(option[value="dark"]:checked){
+    background: black;
+    color: white;
+}
+
+select{
+    width: 60px;
+    margin-left: 2rem;
+    outline: none;
+    background-color: #ccc;
+    border: none;
+}
+
+.bell,.cross,.cross-create,.Youtube,.youtube-logo,.sugestion,
+.home,.seacrh,.profile,.voice,select{
+    cursor: pointer;
+}
+
+
+
+
